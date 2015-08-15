@@ -55,3 +55,7 @@ visual studio code
 ```
 测试人员培训资料
 ```
+## gtd
+```
+GTD：Get things done 时间管理培训
+```
