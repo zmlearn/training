@@ -72,8 +72,8 @@ export HTTPS_PROXY=http://username:password@site:port/
 不配置代理的话 NPM 很难愉快的使用
 
 ```
-$ nam config set proxy http://server:port
-$ nam config set https-proxy http://server:port
+$ npm config set proxy http://server:port
+$ npm config set https-proxy http://server:port
 ```
 
 server:port 可以在你选择的代理服务商后台中心找到
