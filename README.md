@@ -1,9 +1,7 @@
 # training
 
 ## x-wall
-```
-翻墙技能
-```
+翻墙技能 [了解...](x-wall/x-wall.md)
 ## git
 ```
 git基础知识，操作经验

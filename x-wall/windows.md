@@ -1,5 +1,0 @@
-#### terminal
-
-#### application
-
-#### special
